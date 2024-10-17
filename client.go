@@ -18,7 +18,7 @@ import (
 	"github.com/pkg/errors"
 	"github.com/segmentio/ksuid"
 
-	"github.com/andrebparpaiola/gocloak/v1/pkg/jwx"
+	"github.com/andrebparpaiola/gocloak/pkg/jwx"
 )
 
 // GoCloak provides functionalities to talk to Keycloak.

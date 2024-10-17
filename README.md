@@ -32,13 +32,13 @@ For release notes please consult the specific releases [here](https://github.com
 ### Installation
 
 ```shell
-go get github.com/andrebparpaiola/gocloak/v1
+go get github.com/andrebparpaiola/gocloak
 ```
 
 ### Importing
 
 ```go
- import "github.com/andrebparpaiola/gocloak/v1"
+ import "github.com/andrebparpaiola/gocloak"
 ```
 
 ### Create New User
