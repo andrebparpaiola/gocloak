@@ -1,4 +1,4 @@
-module github.com/andrebparpaiola/gocloak/v1
+module github.com/andrebparpaiola/gocloak
 
 go 1.18
 

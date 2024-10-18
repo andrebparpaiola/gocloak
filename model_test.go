@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/andrebparpaiola/gocloak/v1"
+	"github.com/andrebparpaiola/gocloak"
 
 	"github.com/stretchr/testify/assert"
 )
